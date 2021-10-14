@@ -1,0 +1,17 @@
+:root {
+  --color-primary: #3056d3;
+  --color-secodary: #f3f4fe;
+  --color-accent: #13c296;
+  --color-heading: #212b36;
+  --color-body: #637381;
+}
+h1,
+h2,
+h3 {
+  font-family: "Inter", "sans-serif";
+  font-weight: 700;
+}
+h2,
+h3 {
+  color: var(--color-heading);
+}
